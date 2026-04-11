@@ -2,9 +2,6 @@
 Repo for 1st group project for Itmo Speech Course
 
 
-
-## 📁 Структура проекта
-
 ## Структура проекта
 
 ```text
