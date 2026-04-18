@@ -6,4 +6,5 @@ Repo for 1st group project for Itmo Speech Course
 
 ```text
 ── asr_analysis.ipynb                  # ноутбук с анализом и подготовкой данных
-
+── model-training-evaluation.ipynb     # ноутбук с обучением и тестированием модели 
+```
